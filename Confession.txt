@@ -1,0 +1,6 @@
+Morgane Bentzinger - 261062953
+
+- I got confused by the instructions that say that the program can be run by typing "run CoinMachine 400 215" in the Interactions Pane, since this command is deprecated.
+It took me a while to figure out why my code was not running on the console.
+
+- I did not include comments inside the main method because it would not be good practice in this case since the code - with the variable names - is self explanatory.
